@@ -1,0 +1,113 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.bir {
+    width: 100%;
+    
+  }
+  .hero{
+    margin: 0;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+.a2{
+    width: 100%;
+    
+    height: 100vh;
+}
+.htext1{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 40px;
+    font-size: 2.5rem;
+    font-family: 'Sacramento', cursive;
+    font-weight: normal;
+    text-align: center;
+    }
+.h1a, .h2a{
+    color: rgb(100, 122, 164);
+}
+.htext1 h1{
+    margin-bottom: 0;
+}
+.htext1 h2{
+    margin: 0;
+}
+
+.about-me{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.b6{
+    width: 100%;
+    height: 100vh;
+}
+
+.htext2{
+    position: absolute;
+    left: 105px;
+    top: 40px;
+    font-size: 25px;
+    font-family: 'Pangolin', cursive;
+    font-weight: 500;
+    color: rgb(107, 49, 13);
+}
+
+.htext2 h1{
+    letter-spacing: 6px;
+    color: rgb(93, 41, 8);
+    text-transform: uppercase;
+}
+.guitar{
+    position: relative;
+    top: 200px;
+    font-size: 40px;
+    font-family: 'Caveat', cursive;
+}
+.contact-me{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.c7{
+    width: 100%;
+    height: 100vh;
+}
+.htext3{
+    position: absolute;
+    bottom: 250px;
+    font-family: 'EB Garamond', serif;
+    font-size: 30px;
+    left: 100px;
+    
+    color: rgb(0, 33, 57);
+}
+.smt{
+    width: 60%;
+    font-size: 25px;
+    font-weight: 500;
+}
+a{
+        text-decoration: none;
+        margin: 0px 20px 0px 0px;
+        color: #0b8c90;
+        font-weight: 400;
+        bottom: 40px;
+}
+.copyright{
+    text-align: center;
+    position: relative;
+    top: 175px;
+    font-size: 1.75rem;
+    
+}
